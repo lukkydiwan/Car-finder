@@ -8,4 +8,6 @@
    - "json-server --watch db.json --port 4000"
    - now your project is ready to run.
 
+3. Search any car in the search box.
+
 
