@@ -1,0 +1,33 @@
+body{
+    color: rgba(247, 80, 73, 1);
+}
+.search{
+    height: 2.5rem;
+    width: 20rem;
+    border-radius: 20px !important;
+    border: 2px solid rgba(247, 80, 73, 1);
+    color: rgba(247, 80, 73, 1);
+    font-size: larger;
+    font-family: 'Obritron';
+    margin-bottom: 20px;
+    box-shadow: 1px 1px 1px rgb(67, 67, 67);
+}
+.btn:hover{
+    
+        box-shadow: 0 0 10px rgba(247, 80, 73, 1);
+        transform: scale(1.02);
+}
+.search:active{
+    box-shadow: 0 0 10px rgba(247, 80, 73, 1);
+    transform: scale(1.02);
+}
+.search:hover{
+    box-shadow: 0 0 10px rgba(247, 80, 73, 1);
+    transform: scale(1.02);
+}
+.cardContainer{
+    display: "flex";
+    flex-wrap: "wrap";
+    gap: "16px";
+    justify-content: "center";
+}

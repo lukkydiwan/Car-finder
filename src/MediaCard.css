@@ -1,0 +1,9 @@
+.card{
+    height: 100px !important; 
+}
+.liked{
+    color: rgba(247, 80, 73, 1) !important;
+    background-color: rgba(247, 80, 73, 1);
+    fill: rgba(247, 80, 73, 1);
+    display: none;
+}
